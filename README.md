@@ -1,4 +1,4 @@
-# SVG(enorator)
+# NoteMaker
 
 ## Description
 this program allows you to create,view,and delete notes. It uses heroku for deployment and express module.
