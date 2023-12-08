@@ -19,7 +19,7 @@ github user : Joseph03V
 joey03v@gmail.com
 
 ## Live Screenshot
-![Alt text](<public\assets\Screenshot 2023-12-08 144547.png>)
+![Alt text](<./public/assets/Screenshot 2023-12-08 144547.png>)
 
 
 ## Deployed Application Link:
